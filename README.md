@@ -9,22 +9,40 @@
 <h4><ins>What I am currently working on</ins></h4>
 
 ><p>
->  At the moment I am working on achieving even deeper knowledge in JavaScript and React.
+>  At the moment I am working on my Company, <a href="https://www.nordwebtec.com/">NordWebTec.com</a>. Come check us out if you need a fast and performant website!
 >    <br>
->  At a later date I will also work on React Native to even be able to develop mobile applications.
+>    <br>
+>  I am also currently working on a Project called "NWT - All The Components" which is a repository for all the website sections (or components) that active and ambitious developers have developed over the years.
+>  If you have a component that you think would benefit others, feel free to reach out! I will add it to the GitHub Repository and to the NordWebTec.com Website (together with your Name and LinkedIn profile or other links you would like to add!).
 ></p>
 
 <br>
-<h4><ins>Got something you need help with? Or perhaps questions? Reach out to me!</ins></h4>
 
 ><p>
->  E-Mail: ___
+>  E-Mail: stefan@nordwebtec.com
 >  <br>
->  LinkedIn: ___ 
+>  LinkedIn: Find me <a href="www.linkedin.com/in/stefan-lüllmann-927248368">on LinkedIn</a> and connect with me!
 ></p>
 
-
 <br>
+
+<!--
+**OneDev49/OneDev49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
+
 <h4 align="left"><ins>Languages and Tools:</ins></h4>
 
 ><p><strong>Languages</strong> and <strong>Tools</strong> I am currently using: <br><em>(New ones will be added accordingly)</em></p>
@@ -70,19 +88,4 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
-
-
-<!--
-**OneDev49/OneDev49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
