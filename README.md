@@ -21,7 +21,7 @@
 ><p>
 >  E-Mail: stefan@nordwebtec.com
 >  <br>
->  LinkedIn: Find me <a href="www.linkedin.com/in/stefan-lüllmann">on LinkedIn</a> and connect with me!
+>  LinkedIn: Find me on LinkedIn (Stefan Lüllmann) and connect with me!
 ></p>
 
 <br>
