@@ -1,55 +1,64 @@
 <div align="center">
 
+<img src="https://qnr34aa1vn.ufs.sh/f/x81VdwhEWe9Y9vHTEcVSpGcn3VJg5sjiNkum8Iy2dAoabDQT" alt="Portfolio Banner" height="350" />
+
   #  Stefan Lüllmann
 
-  ### Full-Stack Developer
+  ### Full-Stack Software Developer
   
-  *TypeScript | React | Next.js | Node.js | Prisma | PostgreSQL | TailwindCSS*
+  **TypeScript | React | Next.js | Node.js | Prisma | PostgreSQL | TailwindCSS**
   
 </div>
 
 ---
 
-Hi there! 👋 I'm Stefan, a developer with a background in building performant websites and a passion for modern, full-stack JavaScript architecture.
-I am currently deepening my expertise in the Next.js ecosystem and am actively seeking a full-time role where I can contribute to building high-quality, scalable web applications.
+Developer specializing in modern Full-Stack JavaScript Applications.
+Skilled in building performant, maintainable Websites and scalable Back-End Systems.
+Deep experience in the Next.js Ecosystem and End-to-End Application architecture.
+Currently focused on professional Projects and Case Studies demonstrating technical proficiency.
+
+---
+
+### 🏆 Project
+
+#### Professional Portfolio Website
+<img src="https://qnr34aa1vn.ufs.sh/f/x81VdwhEWe9YG1OekopKVqv5jYUWFgHJZNum1TXOtfSDIosQ" alt="Portfolio Screenshot" width="600" />
+
+- **Tech Stack:** Next.js, React, TypeScript, SCSS
+- **Live:** [https://stefan-luellmann.com](https://stefan-luellmann.com)
+- Professional Case Studies integrated with MDX and gray-matter for structured content.
+
+#### Entro - Full-Stack E-Commerce Computer Store *(In Progress)*
+<img src="https://qnr34aa1vn.ufs.sh/f/x81VdwhEWe9Ygmp6ZZXWUim2kHTLC3nG7P9fwtheso8Sp1IE" alt="Entro E-Commerce Computer Store Screenshot" width="600" />
+
+- **Tech Stack:** Next.js, React, TypeScript, Prisma, TailwindCSS, Zustand, PostgreSQL, Supabase, Vercel, Zod, Redis
+- Demonstrates End-to-End Development: Product Catalog, Cart, Authentication, User Dashboard, Product Pages, Payments.
 
 ---
 
 ### 🔧 My Tech Stack
 
-A snapshot of the primary tools and technologies I work with:
 
-| Frontend                               | Backend                                 | Other Tools & Platforms             |
+| Frontend                               | Backend                                 | DevOps & Design                     |
 | -------------------------------------- | --------------------------------------- | ----------------------------------- |
-| Next.js / React                        | Node.js                                 | Git / GitHub                        |
-| TypeScript                             | Prisma                                  | Docker                              |
-| HTML5 / CSS3                           | PostgreSQL                              | Vercel                              |
-| SCSS / Tailwind CSS                    | Next.js API Routes                      | WordPress (Headless)                |
+| **Next.js**                            | **Node.js**                             | **Git / GitHub**                    |
+| **React** / Zustand                    | **Prisma**                              | **Docker**                          |
+| **TypeScript / JavaScript**            | **PostgreSQL / MySQL**                  | **Vercel**                          |
+| HTML5 / CSS3                           | Redis / NextAuth.js / Zod               | **Figma**                           |
+| SCSS / Tailwind CSS                    | PHP (legacy) / Headless CMS (WordPress) | Supabase                            |
 
 ---
 
-### 🔭 Current Focus & Key Projects
-
-I am currently building my personal portfolio website.
-After that I will build a full-stack e-commerce application to demonstrate end-to-end development capabilities.
-
-<div align="center">
-<!---
-  <a href="https://github.com/OneDev49/stefan-luellmann-ecommerce-app">
-    <img src="" />
-  </a>
-  <a href="https://github.com/your-username/stefan-lullmann-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=stefan-lullmann-portfolio&theme=dark&border_color=1e2732" />
-  </a>
---->
-</div>
+### 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OneDev49&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OneDev49&layout=compact&theme=dark)
 
 ---
 
 ### 📫 How to Reach Me
 
-<a href="mailto:hallo@nordwebtec.com">
-  <img src="https://img.shields.io/badge/Email-hallo@nordwebtec.com-blue?style=for-the-badge&logo=protonmail" />
+<a href="mailto:hallo@stefan-luellmann.com">
+  <img src="https://img.shields.io/badge/Email-hallo@stefan-luellmann.com-blue?style=for-the-badge&logo=protonmail" />
 </a>
  
 <a href="https://www.linkedin.com/in/stefan-lullmann/">
