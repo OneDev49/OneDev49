@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://qnr34aa1vn.ufs.sh/f/x81VdwhEWe9Y9vHTEcVSpGcn3VJg5sjiNkum8Iy2dAoabDQT" alt="Portfolio Banner" height="350" />
+<img src="https://qnr34aa1vn.ufs.sh/f/x81VdwhEWe9Y726fd8MG9IrZQzFSojw6XBRq1ykehxCNiHDa" alt="Portfolio Banner" height="350" />
 
   #  Stefan Lüllmann
 
