@@ -29,7 +29,7 @@ Currently focused on professional Projects and Case Studies demonstrating techni
 - Professional Case Studies integrated with MDX and gray-matter for structured content.
 
 #### Entro - Full-Stack E-Commerce Computer Store *(In Progress)*
-<img src="https://qnr34aa1vn.ufs.sh/f/x81VdwhEWe9Ygmp6ZZXWUim2kHTLC3nG7P9fwtheso8Sp1IE" alt="Entro E-Commerce Computer Store Screenshot" width="600" />
+<img src="https://qnr34aa1vn.ufs.sh/f/x81VdwhEWe9YvDguviATbYJwVamzLQPW9CSMXylhpfZUndOF" alt="Entro E-Commerce Computer Store Screenshot" width="600" />
 
 - **Tech Stack:** Next.js, React, TypeScript, Prisma, TailwindCSS, Zustand, PostgreSQL, Supabase, Vercel, Zod, Redis
 - Demonstrates End-to-End Development: Product Catalog, Cart, Authentication, User Dashboard, Product Pages, Payments.
