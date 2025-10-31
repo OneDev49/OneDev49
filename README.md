@@ -58,9 +58,9 @@ Currently focused on professional Projects and Case Studies demonstrating techni
 ### 📫 How to Reach Me
 
 <a href="mailto:hallo@stefan-luellmann.com">
-  <img src="https://img.shields.io/badge/Email-hallo@stefan-luellmann.com-blue?style=for-the-badge&logo=protonmail" />
+  <img src="https://img.shields.io/badge/With%20Email-hallo%40stefan--luellmann%2Ecom-0075D4" />
 </a>
- 
+
 <a href="https://www.linkedin.com/in/stefan-lullmann/">
-  <img src="https://img.shields.io/badge/LinkedIn-Stefan%20Lüllmann-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/On%20LinkedIn-Stefan%20Lüllmann-0075D4" />
 </a>
