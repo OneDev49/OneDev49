@@ -32,6 +32,7 @@ Currently focused on professional Projects and Case Studies demonstrating techni
 <img src="https://qnr34aa1vn.ufs.sh/f/x81VdwhEWe9YvDguviATbYJwVamzLQPW9CSMXylhpfZUndOF" alt="Entro E-Commerce Computer Store Screenshot" width="600" />
 
 - **Tech Stack:** Next.js, React, TypeScript, Prisma, TailwindCSS, Zustand, PostgreSQL, Supabase, Vercel, Zod, Redis
+- **Live:** [https://ecommerce.stefan-luellmann.com/](https://ecommerce.stefan-luellmann.com/)
 - Demonstrates End-to-End Development: Product Catalog, Cart, Authentication, User Dashboard, Product Pages, Payments.
 
 ---
