@@ -62,6 +62,6 @@ Currently focused on professional Projects and Case Studies demonstrating techni
   <img src="https://img.shields.io/badge/With%20Email-hallo%40stefan--luellmann%2Ecom-0075D4" />
 </a>
 
-<a href="https://www.linkedin.com/in/stefan-lullmann/">
+<a href="https://www.linkedin.com/in/stefan-lüllmann/">
   <img src="https://img.shields.io/badge/On%20LinkedIn-Stefan%20Lüllmann-0075D4" />
 </a>
